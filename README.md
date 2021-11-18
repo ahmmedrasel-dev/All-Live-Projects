@@ -12,4 +12,10 @@ To be Continue...
 
 # Hire Me
 
-<a href="https://www.upwork.com/freelancers/~0194fbf0f3ffb9e3bd"><img width="50" src="https://i.pinimg.com/favicons/648dab1f1aa2f13a411a530c0125fcf0d5db7b21ec9f4a9d4693aff2.png?e7a8919ace385cf8a267b23006320618" alt="Upwork"></a>
+<a href="https://www.upwork.com/freelancers/~0194fbf0f3ffb9e3bd"><img width="60" src="https://i.pinimg.com/favicons/648dab1f1aa2f13a411a530c0125fcf0d5db7b21ec9f4a9d4693aff2.png?e7a8919ace385cf8a267b23006320618" alt="Upwork"></a>
+
+
+# Follow Me on..
+  <a href="#"><i class="fab fa-facebook-f"></i></a>
+  <a href="#"><i class="fab fa-twitter"></i></a>
+  <a href="#"><i class="fab fa-linkedin-in"></i></a>
